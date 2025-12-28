@@ -553,10 +553,20 @@ a:hover {
   }
   .theme-selector,
   .lang-selector {
-    justify-content: center;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
   }
   .theme-toggle {
     width: 100%;
+    justify-content: center;
+  }
+  .lang-select {
+    width: 100%;
+  }
+  .theme-label,
+  .lang-label {
+    font-size: 13px;
   }
   .title h1 { font-size: clamp(20px, 6vw, 28px); }
   .back-to-top { bottom: 16px; right: 16px; }
