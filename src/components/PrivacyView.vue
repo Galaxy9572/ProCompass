@@ -563,10 +563,15 @@ a:hover {
   }
   .lang-select {
     width: 100%;
+    text-align: center;
+    text-align-last: center;
   }
   .theme-label,
   .lang-label {
     font-size: 13px;
+  }
+  .theme-label-text {
+    text-align: center;
   }
   .title h1 { font-size: clamp(20px, 6vw, 28px); }
   .back-to-top { bottom: 16px; right: 16px; }
