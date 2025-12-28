@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "ProCompass Privacy Policy",
+    "description": "ProCompass privacy policy - Available in Chinese, English, and Japanese"
+  },
+  "header": {
+    "title": "ProCompass Privacy Policy",
+    "lastUpdated": "Last Updated: 2025-12-30",
+    "languageLabel": "Language:",
+    "themeLabel": "Theme:",
+    "themeToggle": "Toggle theme",
+    "themeModes": {
+      "light": "Light",
+      "dark": "Dark",
+      "auto": "Auto"
+    }
+  },
+  "toc": {
+    "title": "Quick Links",
+    "links": {
+      "collection": "Data Collection",
+      "usage": "Data Usage",
+      "thirdParty": "Third Parties",
+      "permissions": "Permissions",
+      "security": "Data Security",
+      "choices": "Your Choices",
+      "children": "Children",
+      "updates": "Updates",
+      "contact": "Contact"
+    }
+  },
+  "content": {
+    "intro": "This Privacy Policy applies to ProCompass (the \"App\"). We value your privacy and explain how we collect, use, share, and protect your information.",
+    "sections": {
+      "collection": {
+        "title": "1. Information We Collect",
+        "device": {
+          "title": "1.1 Device and Usage Data",
+          "items": [
+            "Device information (e.g., model, OS version, language settings).",
+            "App usage and interaction events (via Firebase Analytics)."
+          ]
+        },
+        "location": {
+          "title": "1.2 Location Data",
+          "items": [
+            "With your permission, the App uses location services to provide compass and location features.",
+            "Location data is used only for display and calculation, not for personalized ads."
+          ]
+        },
+        "sensor": {
+          "title": "1.3 Sensor Data",
+          "items": [
+            "The App uses motion and direction sensors (e.g., gyroscope, magnetometer, barometer) for compass, speed, and altitude features."
+          ]
+        },
+        "ads": {
+          "title": "1.4 Ads and Identifiers",
+          "items": [
+            "The App integrates Google AdMob to display ads.",
+            "With your consent, AdMob may access the advertising identifier (IDFA) for ad delivery and measurement."
+          ]
+        }
+      },
+      "usage": {
+        "title": "2. How We Use Information",
+        "items": [
+          "Provide and improve core features (compass, location, speed).",
+          "Display ads and measure ad performance.",
+          "Analyze usage to improve the experience."
+        ]
+      },
+      "thirdParty": {
+        "title": "3. Sharing and Third-Party Services",
+        "intro": "We may share necessary information with:",
+        "services": [
+          "Google AdMob (ad delivery and measurement)",
+          "Firebase Analytics (app analytics)"
+        ],
+        "privacyLink": "Third-party privacy policy: ",
+        "privacyUrl": "https://policies.google.com/privacy"
+      },
+      "permissions": {
+        "title": "4. Permissions",
+        "items": [
+          "Location permission: for location/compass features.",
+          "Motion & Fitness (if applicable): for motion-related data.",
+          "Tracking permission (IDFA): for ad delivery and measurement (optional)."
+        ]
+      },
+      "security": {
+        "title": "5. Data Retention & Security",
+        "text": "We take reasonable measures to protect your information. We do not intentionally collect or store personally identifiable information."
+      },
+      "choices": {
+        "title": "6. Your Choices",
+        "items": [
+          "Manage location and tracking permissions in system settings.",
+          "Limit personalized ads in iOS settings."
+        ]
+      },
+      "children": {
+        "title": "7. Children's Privacy",
+        "text": "The App is not intended for children under 13. If you believe we have collected such information, please contact us."
+      },
+      "updates": {
+        "title": "8. Policy Updates",
+        "text": "We may update this policy from time to time. Updates will be posted here with a revised \"Last Updated\" date."
+      },
+      "contact": {
+        "title": "9. Contact Us",
+        "intro": "If you have questions about this policy:",
+        "operator": "Developer: ",
+        "email": "Email: "
+      }
+    }
+  },
+  "footer": {
+    "copyright": "ProCompass © 2025 JunyLiao"
+  },
+  "backToTop": "Back to Top",
+  "contact": {
+    "name": "JunyLiao",
+    "email": "ljy957266{'@'}gmail.com"
+  }
+}
